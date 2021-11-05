@@ -35,4 +35,7 @@ Doctor appointment software is one of those medical technologies that actually m
 -   Patient Database
 -   Appointment Management
 
+## Frontend template
+
+Bootstrap 5.0 Default Template
 ## Project Contributors
