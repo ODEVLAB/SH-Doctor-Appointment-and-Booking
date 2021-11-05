@@ -15,6 +15,24 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## About Project
 
-Doctor Appointmen and Booking
+Doctor Appointment and Booking
+
+Doctor appointment software is one of those medical technologies that actually make the lives of patients, doctors, and administration easier. 
+
+## Benefit of the Project
+
+Simplifying the Process of Finding a Doctor
+Increasing Patient Satisfaction
+Cutting Costs
+Reducing Patient Wait Times
+
+## Features of the Projects
+
+Doctor Listings
+Patient Profile
+Notifications
+Doctor’s Profile
+Patient Database
+Appointment Management
 
 ## Project Contributors
