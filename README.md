@@ -58,3 +58,10 @@ php artisan migrate after setting the database name
 
 Thanks
 
+
+## Screenshots
+
+
+<img src="screenshot (102).png" alt="screenshot">
+<img src="screenshot (103).png" alt="screenshot">
+<img src="screenshot (104).png" alt="screenshot">
