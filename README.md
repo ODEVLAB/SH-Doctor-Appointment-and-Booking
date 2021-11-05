@@ -21,10 +21,11 @@ Doctor appointment software is one of those medical technologies that actually m
 
 ## Benefit of the Project
 
-Markup : * Simplifying the Process of Finding a Doctor
-Markup : * Increasing Patient Satisfaction
-Markup : * Cutting Costs
-Markup : * Reducing Patient Wait Times
+Markup : 
+* Simplifying the Process of Finding a Doctor
+* Increasing Patient Satisfaction
+* Cutting Costs
+* Reducing Patient Wait Times
 
 ## Features of the Projects
 
