@@ -7,18 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## About Project
-
-Doctor Appointment and Booking
-
-Doctor appointment software is one of those medical technologies that actually make the lives of patients, doctors, and administration easier.
-
 ## Benefit of the Project
 
 -   Simplifying the Process of Finding a Doctor
@@ -35,29 +23,21 @@ Doctor appointment software is one of those medical technologies that actually m
 -   Patient Database
 -   Appointment Management
 
-## Frontend template
+## Project Template
 
-Bootstrap 5.0 Default Template
+Front End - Bootstrap 5.0 Default Template
 
-## Project Contributors
-
-I'll get a confirmed list and update this
-
-## How to Install the
+## How to Install
 
 Clone this project to your pc
 Requirement: Local Server - XAMPP, WAMPP, Laragon etc
-
 copy .env.example and create a .env file
 paste what you copied and edit to fit your description
-
 run composer install to install all dependencies
 run php artisan key:generate to create the base key
-
 php artisan migrate after setting the database name
 
 Thanks
-
 ## Screenshots
 
 <img src="Screenshot (102).png" alt="screenshot">
