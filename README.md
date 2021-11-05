@@ -39,3 +39,22 @@ Doctor appointment software is one of those medical technologies that actually m
 
 Bootstrap 5.0 Default Template
 ## Project Contributors
+
+I'll get a confirmed list and update this
+
+## How to Install the
+
+Clone this project to your pc
+Requirement: Local Server - XAMPP, WAMPP, Laragon etc
+
+copy .env.example and create a .env file
+paste what you copied and edit to fit your description
+
+run composer install to install all dependencies
+run php artisan key:generate to create the base key
+
+php artisan migrate after setting the database name
+
+
+Thanks
+
