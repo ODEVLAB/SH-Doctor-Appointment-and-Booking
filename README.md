@@ -38,6 +38,7 @@ Doctor appointment software is one of those medical technologies that actually m
 ## Frontend template
 
 Bootstrap 5.0 Default Template
+
 ## Project Contributors
 
 I'll get a confirmed list and update this
@@ -55,13 +56,10 @@ run php artisan key:generate to create the base key
 
 php artisan migrate after setting the database name
 
-
 Thanks
-
 
 ## Screenshots
 
-
-<img src="screenshot (102).png" alt="screenshot">
-<img src="screenshot (103).png" alt="screenshot">
-<img src="screenshot (104).png" alt="screenshot">
+<img src="Screenshot (102).png" alt="screenshot">
+<img src="Screenshot (103).png" alt="screenshot">
+<img src="Screenshot (104).png" alt="screenshot">
