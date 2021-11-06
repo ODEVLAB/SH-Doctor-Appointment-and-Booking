@@ -20,7 +20,6 @@ class RegisterController extends Controller
             'email' => 'required|email|max:255|unique:users,email',
             'username' => 'required|max:255|min:3|unique:users,username',
             'password' => 'required|max:255|min:6',
-            'phone' => 'numeric'
         ]);
 
         $user=User::create($user);
