@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view(auth()->user()?'welcome':'users.create');
 });
 Route::get('register', [RegisterController::class, 'create'])->middleware(['guest']);
 Route::post('register', [RegisterController::class, 'store'])->middleware(['guest']);
