@@ -13,10 +13,10 @@
 
 <body style="font-family: Open Sans, sans-serif">
 <section class="px-6 py-8">
-    <nav class="md:flex md:justify-between md:items-center border-b border-gray-300 p-4">
+    <nav class="md:flex md:justify-between md:items-center border-b border-gray-300 p-4 shadow-bottom shadow-outline">
         <div>
             <a href="/">
-                <p class="font-bold font-monospace text-gray-600">Doctors Appointment</p>
+                <p class="font-bold font-monospace text-gray-500">Doctors Appointment</p>
             </a>
         </div>
 
@@ -36,8 +36,8 @@
 
     {{$slot}}
 
-    <footer class="bg-white dark:bg-gray-800">
-        <div class="container px-6 py-8 mx-auto fixed bottom-0">
+    <footer class="bg-white dark:bg-gray-800 fixed bottom-0 w-full left-3">
+        <div class="container px-6 py-8 mx-auto">
             <hr class="my-10 dark:border-gray-700">
 
             <div class="sm:flex sm:items-center sm:justify-between">
