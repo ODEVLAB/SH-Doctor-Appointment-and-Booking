@@ -13,19 +13,19 @@
 
 <body style="font-family: Open Sans, sans-serif">
 <section class="px-6 py-8">
-    <nav class="md:flex md:justify-between md:items-center">
+    <nav class="md:flex md:justify-between md:items-center border-b border-gray-300 p-4">
         <div>
             <a href="/">
-                <p class="font-bold font-monospace">Doctors Appointment</p>
+                <p class="font-bold font-monospace text-gray-600">Doctors Appointment</p>
             </a>
         </div>
 
-        <div class="mt-8 md:mt-0 flex items-center">
+        <div class="mt-8 md:mt-0 flex items-center ">
             @auth()
-                    <form method="post" action="/logout">
-                        @csrf
-                        <button type="submit" class="text-xs font-bold uppercase">logout</button>
-                    </form>
+                <form method="post" action="/logout">
+                    @csrf
+                    <button type="submit" class="text-xs font-bold uppercase">logout</button>
+                </form>
             @else
                 <a href="/register" class="text-xs font-bold uppercase text-blue-500 hover:underline">Register</a>
                 <a href="/login" class="text-xs font-bold uppercase mx-6 text-blue-500 hover:underline">Login</a>
